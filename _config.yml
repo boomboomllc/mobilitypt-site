@@ -1,7 +1,7 @@
 # Draft settings. For the real launch on mobilitypt.net:
 #   url: "https://mobilitypt.net", baseurl: "", draft: false
 title: Mobility Physical Therapy
-url: "https://ethiopiae.github.io"
+url: "https://boomboomllc.github.io"
 baseurl: "/mobilitypt-site"
 production_url: "https://mobilitypt.net"
 # While true: every page is noindex, robots.txt blocks crawlers, and the draft banner shows.
